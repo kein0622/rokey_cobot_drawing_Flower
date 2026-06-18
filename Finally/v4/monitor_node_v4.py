@@ -41,7 +41,7 @@ from google.cloud.firestore_v1 import SERVER_TIMESTAMP
 # Firebase 초기화
 # ══════════════════════════════════════════════════════
 
-SERVICE_ACCOUNT_PATH = "/home/ludix/test_23/serviceAccountKey.json"
+SERVICE_ACCOUNT_PATH = "/home/kimi/Downloads/serviceAccountKey.json"
 ROBOT_ID             = "dsr01"
 
 if not firebase_admin._apps:
