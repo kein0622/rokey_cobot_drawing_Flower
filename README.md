@@ -226,5 +226,4 @@ ros2 run robot_monitoring publisher
 
 ## 🎬 전체 시연 영상
 
-<!-- 시연 영상 링크 또는 GIF 삽입 -->
-[![시연 영상](영상_썸네일_이미지_경로)](유튜브_또는_영상_링크)
+[![시연 영상](https://img.youtube.com/vi/fTG8bLtbn_E/maxresdefault.jpg)](https://youtu.be/fTG8bLtbn_E)
