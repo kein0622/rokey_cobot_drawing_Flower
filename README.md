@@ -39,7 +39,7 @@
 
 ### Hardware List
 - **Robot**: Doosan Robotics M0609
-- **Gripper**: DH-Robotics PGE-50-26
+- **Gripper**: onrobot RG2
 - **Server**: Mini PC (ROS2 Humble 환경)
 
 ---
